@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Spaine The king of Spaines edict, for the expulsion &amp; banishment of more then nine hundred thousand Moores out of his kingdome, which conspired and plotted to bring the kingdome of Spaine vnder the power and subiection of the Turkes and Saracens. Translated out of Spanish into English by W.I.</title>
+            <title>Proclamations. 1611. English</title>
+            <author>Spain. Sovereign (1598-1621 : Philip III)</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15880</idno><idno type="EEBO-CITATION">99843194</idno>
+  <idno type="VID">176954</idno>
+  <idno type="EEBO-PROQUEST">2240857135</idno>
+  <idno type="STC">STC 22992.7</idno>
+  <idno type="STC">ESTC S107495</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843194e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 729:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Spaine The king of Spaines edict, for the expulsion &amp; banishment of more then nine hundred thousand Moores out of his kingdome, which conspired and plotted to bring the kingdome of Spaine vnder the power and subiection of the Turkes and Saracens. Translated out of Spanish into English by W.I.</title>
+                  <title>Proclamations. 1611. English</title>
+                  <author>Spain. Sovereign (1598-1621 : Philip III)</author>
+                  <author>W. I., fl. 1611.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By E. Allde] for Nathaniel Butter, and are to be solde at his shop at the signe of the pide-Bull neere St. Austins gate,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1611.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Identified as STC 22995 on UMI microfilm reel 729.</note>
+                  <note>Signatures: A⁴ (-A1) B⁴.</note>
+                  <note>Formerly STC 22995.</note>
+                  <note>Some print show-through; pages stained.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Muslims --  Spain --  Early works to 1800.</term>
+               <term type="geographic_name">Spain --  History --  Philip III, 1598-1621 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176954:1"/>
+            <p>
+               <hi>Newes from Spaine.</hi>
+            </p>
+            <p>THE KING OF SPAINES EDICT, FOR THE expulsion &amp; banishment of more then nine hundred thousand Moores out of his Kingdome, which conspi<g ref="char:EOLhyphen"/>red and plotted to bring the King<g ref="char:EOLhyphen"/>dome of Spaine vnder the <hi>pow<g ref="char:EOLhyphen"/>er and subiection of the Turkes and Saracens,</hi> Translated out of Spanish into English by W. I.</p>
+            <p>Imprinted at London for <hi>Nathaniel Butter,</hi> and are to be solde at his Shop at the Signe of the pide-Bull neere St. Austins gate. 1611.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:176954:2"/>
+            <pb facs="tcp:176954:2"/>
+            <head>AN EDICT OF THE KING of Spaine, for the expulsion and banishment of more then nine hundred thousand Moores, out of his Kingdome which treacherously conspired to enuassell the said Kingdome to the Turkes, &amp; Saracens.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">D</seg>On Iohn de Men<g ref="char:EOLhyphen"/>dozsa,</hi> Marquesse of St Germain, Gentle<g ref="char:EOLhyphen"/>man of his Maiesties Chamber, Counsellour to his Maiesty for the Warres, and Captaine Generall of the Artillery of Spaine.</signed>
+            </opener>
+            <p>It hath pleased his Maiesty to or<g ref="char:EOLhyphen"/>daine
+<pb facs="tcp:176954:3"/> and command that he should be expedited by his Counsell of state, with letters pattents signed by <hi>Andrew de Prade</hi> his Secretary for the expulsion and banishment of the Moores from the Prouince of <hi>Andelucia,</hi> King<g ref="char:EOLhyphen"/>dome of <hi>Granada,</hi> and Citty of <hi>Harnache:</hi> whose contents are as followeth.</p>
+         </div>
+         <div type="edict">
+            <pb facs="tcp:176954:3"/>
+            <head>By the King,</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecause reason obligeth the consciences of those that are as props and stayes to the good estate of Christian gouernment, to exo<g ref="char:EOLhyphen"/>nerate and quitt Kingdomes and common wealthes of all such things, as are occasions of scandall vnto them, are dommageable vnto good and loyall subiects, dangerous vnto the state and which surpasseth all, offensiue vnto God and pre<g ref="char:EOLhyphen"/>iudicall vnto his seruice. And experience hauing sufficiently aduertisde vs, that the residence of the new Christians the <hi>Moores,</hi> and their abode in the Kingdomes of <hi>Granada, Murcia</hi> and <hi>Andalucia,</hi> hath beene the source and fountaine of all these inconueniencies amongst vs.</p>
+            <p>Because that beyond the manner of such as with mutuall agreement consented to the sub<g ref="char:EOLhyphen"/>uersion of the said Kingdome of <hi>Granada</hi> which began through the most cruell murthering and bloody slaughtering of all the Priestes and the ancient Christians which they could intrap of all those that l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ued with them, borrowing ayde and
+<pb facs="tcp:176954:4"/> assistance from the <hi>Turkes;</hi> and hauing drawen them from the saide Kingdome, and permitted them to liue in our other Kingdomes vpon con<g ref="char:EOLhyphen"/>dition of present repenting for their former of<g ref="char:EOLhyphen"/>fences, and hopefull promises of future amend<g ref="char:EOLhyphen"/>ment, liuing loyally and christianly according to all the decrees and ordinances of their oblige<g ref="char:EOLhyphen"/>ment: they not only regardlesse of the accom<g ref="char:EOLhyphen"/>plishment of their dutifull obseruance, accor<g ref="char:EOLhyphen"/>ding to the bond and obligation of our holy faith; but also haue alwaies declared themselues to be most hatefull despisers and carelesse con<g ref="char:EOLhyphen"/>temners of the same, not fearing to offend God himself, as hath been most euidētly demonstrated by a multitude of such as haue bene punnished by the holy Office of the Inquition: besides the committing of many robberies and butcherly murthers vpon the ancient Christians; yet not content with this, haue trecherously conspired the confusion of my Royall Crowne and vtter subuertion of all my Kingdomes, seeking helpe and succour from the <hi>Turke,</hi> sending too and fro diuers intelligences to this effect, doing the like to other Princes from whose assistant powers they fully perswaded themselues to finde reliefe, proffering vnto them, both their men &amp; meanes.</p>
+            <p>And sithence for the continuance of so many yeares in the which they haue bene plotting this conspiracie, ther hath not been any one that hath endeuoured to reueale the same, but haue euer bene
+<pb facs="tcp:176954:4"/> wondrous close, secret, and peremptory denyers of this mischieuous designe: it is a most euident and palpable demonstrance that they haue bene alwaies of one opinion, of one desire, against their duty towards God and loyalty to vs and our Kingdomes; although they might haue immita<g ref="char:EOLhyphen"/>ted many worthy Caualiers of their owne An<g ref="char:EOLhyphen"/>cestors which haue bene noble Actors of very va<g ref="char:EOLhyphen"/>lient and memorable deedes, performing aswell their seruice towards God as vnto the former Kings, our Royall Progenitors: yea &amp; vnto our selfe also, as good Christians and loyall subiects.</p>
+            <p>All this being duly considered, and remem<g ref="char:EOLhyphen"/>bring the obligation wherein we stand bound vn<g ref="char:EOLhyphen"/>to our Country to deliuer it from ensuing thral<g ref="char:EOLhyphen"/>dome by orderly redresse in due oportunity, pro<g ref="char:EOLhyphen"/>curing the conuersation of our Kingdomes and subiects, and desiring to be carefully prouident for all; we haue detetermined by the aduice and councell of many learned men and other very good sincere, graue and wise Christians, such as are iealous of the performance of their duty both towards God and our Selfe, to expell from these our Kingdomes of <hi>Granada Murcia</hi> and <hi>Andalucia</hi> and from the Citty of <hi>Hernach</hi> (although it be without the limmits of the said Kingdomes) all the new Christians the <hi>Moores</hi> which are in the said Kingdomes, both Men Women and Chil<g ref="char:EOLhyphen"/>dren. For when as any great and detestable crime is committed in any Colledge or society,
+<pb facs="tcp:176954:5"/> it is not against reason that such a Colledge or sosciety should be destroyed, and that the little for the great, and some of them for other some should be punished: And that such as peruert the good and sincere demeanours of a common wealth and of the Citties and Townes thereof, should be driuen far from other inhabitants, to the end that their wicked and lewde manners may not by their contagious infection corrupt others.</p>
+            <p>For this reason, we will and command that all the new Christians the <hi>Moores,</hi> not excepting any one of them whatsoeuer, liuing and residing within the said Kingdomes of <hi>Granada, Marcia,</hi> and <hi>Andalucia,</hi> and the said Citty of <hi>Hernach,</hi> as<g ref="char:EOLhyphen"/>well men as women, of what age soeuer they be, aswell naturall as not naturall, which in any man<g ref="char:EOLhyphen"/>ner, or for any cause whatsoeuer, are arriued and remaine within the said places (such only as are slaues being excepted) doe depart within thirtie dayes immediately following, beginning from the day of the publication of these presents, from all our Kingdomes &amp; Signioryes of <hi>Spaine,</hi> with<g ref="char:EOLhyphen"/>all their children both sonnes and daughters, men seruants and maid seruants, together with all other domestickes of their nation, aswell little as great: &amp; that they presume not to returne nor stay in them, nor in any other place or part of them, either abiding there or passing through, or in any other manner whatsoeuer.
+<pb facs="tcp:176954:5"/> We also prohibit and forbid them to passe in their departure, through the Kingdomes of <hi>Va<g ref="char:EOLhyphen"/>lence</hi> &amp; <hi>Arragon,</hi> or once to set foot within them, vpon paine of forfeiting their goods, they so do<g ref="char:EOLhyphen"/>ing, and not obeying our will &amp; pleasure whole<g ref="char:EOLhyphen"/>ly, in such sort as is aboue said; and that they or any of them shall be found within my said King<g ref="char:EOLhyphen"/>domes &amp; Signiories, in what manner soeuer, af<g ref="char:EOLhyphen"/>ter the expiration of the said tearme of thirty dayes, they shall incurre paine of death and con<g ref="char:EOLhyphen"/>fiscation of all their goods, to be imployed ac<g ref="char:EOLhyphen"/>cording to our will and pleasure. Which paines they shall incurre for this very deed without any other maner of inditement, declaration, or sen<g ref="char:EOLhyphen"/>tence.</p>
+            <p>We also charge and commaund, that no per<g ref="char:EOLhyphen"/>son whatsoeuer, within any of our Kingdomes &amp; Signiories, either being or inhabiting there, of what estate, quallity, preheminence, or condition soeuer they be, presume, or dare to receiue, suc<g ref="char:EOLhyphen"/>cour, help, or defend, either publiquely or priuat<g ref="char:EOLhyphen"/>ly, any of the said <hi>Moores,</hi> whether men or women after the thirty daies, (this Edict standing in force for euer) in their lands, houses, or any other place what or wheresoeuer, vpon paine of losing all their goods, slaues, fortresses, Castles, and o<g ref="char:EOLhyphen"/>ther hereditaments; yea and besides the forfei<g ref="char:EOLhyphen"/>ting all the graces, fauours, and good deedes, which they haue euer receiued from our selfe, to be confiscated to our treasury, and imployed to
+<pb facs="tcp:176954:6"/> our vses. And although I might with equity and iustice confiscate all the goods, moueables, or a<g ref="char:EOLhyphen"/>ny other, of the said Moores, as the goods of such as are guilty of high treason, both against God &amp; our Selfe, yet notwithstāding, vsing clemency to<g ref="char:EOLhyphen"/>wards them, it pleaseth vs (during the said tearme of thirty dayes) to giue them liberty and power to dispose of all their goods and moueables, and to transport them with them, but not in Mony, Gold, Siluer, Iewels, or letters of exchange, but in marchandises, &amp; such to, as are not prohibited to be transported, being bought from some of our owne subiects of these our Kingdomes, and not from any others: or in fruites of the said king<g ref="char:EOLhyphen"/>domes.</p>
+            <p>And to the end that these <hi>Moores</hi> (during the said time of thirty daies) may haue fit conueni<g ref="char:EOLhyphen"/>ency of disposing both themselues and of their goods and moueables, and of imploying them in marchandises (as is abouesaid) or in fruites of these kingdomes, and to transport such as they shall buy (for asmuch as all that are not mouea<g ref="char:EOLhyphen"/>bles, ought to remaine to our selfe to be applyed to godly vses appertaining to Gods seruice, and the common good of the weale publike) we de<g ref="char:EOLhyphen"/>clare by these presents that we take and receiue them▪ vnder our protection &amp; royall safegard, as<g ref="char:EOLhyphen"/>suring them and their goods, to the end, that du<g ref="char:EOLhyphen"/>ring the said time, they may passe to and fro, buy and sell, chop &amp; change, all their said moueables,
+<pb facs="tcp:176954:6"/> and imploy their m<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, gold, siluer, and Iewels as aboue said, in ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chandizes not prohibited, being bought from the naturall subiects of our Kingdomes, and in fruites of the said Country, and to transport the said marchandize and fruits freely and according to their owne desires, with<g ref="char:EOLhyphen"/>out (during the said time) hauing any hurt or damage done vnto them, eyther in their per<g ref="char:EOLhyphen"/>sons or in their goods, contrary to iustice; vpon the paine which such incurre as violate our pro<g ref="char:EOLhyphen"/>tection and Royall safegard.</p>
+            <p>And in like manner we permit and suffer the said <hi>Moores</hi> to carry with them from our said Kingdomes and Signioryes, the said marchandises and fruites, aswell by sea as land, paying lawfull customes with this prouiso (as aboue is said) that they carry not with them gold, nor siluer, iewels, mony, or other things forbidden to be transpor<g ref="char:EOLhyphen"/>ted by the lawes of our Kingdomes, either direct<g ref="char:EOLhyphen"/>ly or indirectly, properly or by exchange, saue onely the said marchandize &amp; fruites which are not forbidden.</p>
+            <p>Yet notwithstanding it is our will and pleasure to permit them to furnish themselues with such monyes as shall be expedient and necessarie as<g ref="char:EOLhyphen"/>well for their passage and pasport by land, as for their imbarkment by Sea. And we will and command al Iustices within our said Kingdomes, all Captaines Generall of our Gallyes, and offi<g ref="char:EOLhyphen"/>cers whatsoeuer, that they obserue and doe what<g ref="char:EOLhyphen"/>soeuer
+<pb facs="tcp:176954:7"/> is herein contained: And that they doe not only not contradict or withstand the same: but also that they imploy their best endeauours for the sudden dispatch and execution hereof, lending ayde and succour as shall be needefull, vpon paine of being depriued of their offices, and of confiscation of their goods. We also com<g ref="char:EOLhyphen"/>mand that this our Edict and whatsoeuer is here<g ref="char:EOLhyphen"/>in contained, be by them publiquely proclaimed, to the end that it may be generally knowne vnto all, and that no one may haue cause to plead ig<g ref="char:EOLhyphen"/>norance: </p>
+            <closer>
+               <dateline>Giuen at <hi>Madrill.</hi>
+               </dateline>
+               <signed>Signed. I the King.</signed> And a little vnder
+<signed>Andrew de Prade.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>TO the end that these presents may be known vnto all, I ordaine that this Edict be pro<g ref="char:EOLhyphen"/>claimed after the vsuall custome and man<g ref="char:EOLhyphen"/>ner in all the Citties, townes and other places, be<g ref="char:EOLhyphen"/>ing vnder the Iurisdiction of the Citty of <hi>Seuill.</hi> And for that the said Cittie is so neere as it is, and that the imbarkment of the <hi>Moores</hi> ought to be made therein, and for other iust causes which import the seruice of his Maiestie, together with other considerations mouing me hereunto, by vertue of a commaund which I haue receiued from his maiesty to doe that which shall be more conuenient touching the time for their depar<g ref="char:EOLhyphen"/>ture:
+<pb facs="tcp:176954:7"/> I permitt vnto the said <hi>Moores,</hi> of the Citties, townes and other places of this Prouince, but twenty daies for their departure, notwithstanding the said Edict permits them thirtie: which are to be reckoned from the day of the publication of this Edict. And during the said time, they shall not be able to depart from the said Citties, townes or other places, where they haue their habitation &amp; being, vpon paine of death, vnlesse for their dis<g ref="char:EOLhyphen"/>charge for so doing, they haue Licence and per<g ref="char:EOLhyphen"/>mission from the <hi>Alcades</hi> Superiours, and Iustices which the Lord Marquesse of <hi>Carpy</hi> Gouernour of the Cittie of <hi>Seuill,</hi> shall appoint in euery town &amp; place. And where none shall be by him appoin<g ref="char:EOLhyphen"/>ted, to that end they shall be constrained to get Licence &amp; permission from the Iudges and Iusti<g ref="char:EOLhyphen"/>ces of that place, together with their guides and conducts, which ought to bring them to their Imbarkement. And the punishment wherevnto they shall be lyable by these presents, if they doe the contrary, ought foorthwith with remission to be inflicted on them. </p>
+            <closer>
+               <dateline>Giuen at <hi>Seuill</hi>
+                  <date> the 12. day of <hi>Ianuary</hi> 1610.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.
+<pb facs="tcp:176954:8"/>
+            <pb facs="tcp:176954:8"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
